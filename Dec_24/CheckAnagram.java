@@ -1,6 +1,4 @@
 
-import java.util.Arrays;
-
 public class CheckAnagram {
 
 	public static void main(String args[]) {
