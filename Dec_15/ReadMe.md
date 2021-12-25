@@ -35,6 +35,22 @@ for loop and while loop in java
 scopes and visibility. (Done)
 
 
+Assignment:
+-----------------------------------------------------------------------------------------
+Finding max of 3 numbers using nested if-else block.
+Check if the triangle is valid with it's given sides. Note: do check for negative numbers, and zero-length sides.
+Check if the Quadrilateral is valid for the given  4 angles.
+Write a program that takes user input and keeps displaying the first and second digits for the entered number.
+        Example 1 : User input : 14215 => output: 1,4 
+        Example 2:  User input : 6654908 => output: 6,6
+        
+        Copy paste these lines to get user input in java.
+        Scanner s = new Scanner(System.in)
+        int num = s.nextInt()
+        Also the code should run continuously without terminating until the entered value is -1 , that is after displaying the output it MUST ask for another number as input
+        
+Check if the given char is vowel or consonant, check for uppercase and lowercase, and print accordingly.
+
 
 
 
