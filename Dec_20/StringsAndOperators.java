@@ -23,7 +23,6 @@ public class shortcut {
 //		
 		
 		//string concat
-		
 //		String FirstName = "arun";
 //		String lastName = "singh";
 //		System.out.println(lastName + " "+ FirstName);
@@ -32,34 +31,6 @@ public class shortcut {
 		//Loop mech:
 //		while loop 
 //		do while loop
-//		for 
-		
-		
-		Scanner s = new Scanner(System.in);
-//		String school = s.next(); //only takes 1 word
-//		String name = s.nextLine(); //string datatype
-		
-//		int x = s.nextInt();
-//		float y = s.nextFloat();
-//		char c = s.next().charAt(2);
-	
-//		System.out.println(school);
-		
-		
-//		int age = s.nextInt(); //26 is here a string type
-//		System.out.println(age);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+//		for 	
 	}
 }
