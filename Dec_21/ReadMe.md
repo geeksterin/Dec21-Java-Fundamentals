@@ -14,7 +14,6 @@ Correct way to declare array in java
 
 			Questions:
 --------------------------------------------------------------------------
-why do arrays have 0-indexing **(ponder)
 find min , max in array 
 find average of elements in array
 Second largest number in array

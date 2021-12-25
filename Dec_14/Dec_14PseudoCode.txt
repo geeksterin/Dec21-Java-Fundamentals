@@ -5,11 +5,7 @@ https://www.w3resource.com/c-programming-exercises/for-loop/index.php
 3. Check if the given number is a armstrong number or not. (ex: 153)
 4. Scopes and escape sequence
 
-Ternary Operators:
-variable = (condition) ? expressionTrue :  expressionFalse;
-
 6. data-types introduction
-
 5. Variables and their storage.
 -------------------------------------------------------------------
 5. Print the following pattern
@@ -49,24 +45,6 @@ variable = (condition) ? expressionTrue :  expressionFalse;
 	1
 
 -------------------------------------------------------------------
-
-6. print multiplication table 
-
-
-
-
-
-
-if(condition){
-	print()
-	print()
-	logic 
-	print()
-}
-else {
-	print()
-}
-
 
 
 
