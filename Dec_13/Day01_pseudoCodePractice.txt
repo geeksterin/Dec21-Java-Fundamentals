@@ -1,0 +1,219 @@
+
+
+x = 5 //variables 
+y = 10 
+
+using py theorem 
+x^2 + y^2 = c^2
+
+
+
+print(welcome to geekstur)
+
+operators:
+---------------------------
++ , - , * , / , = , == , %, < ,> <= , >= , != 
+
+
+comments:
+---------------------------------
+// this is a comment 
+
+
+
+---------------------------------------------------------------------------
+print(Hello welcome to the class)
+
+---------------------------------------------------------------------------
+//Add two variables 
+
+x = 10 
+y = 20 
+print(x+y)
+
+----------------------------------------------------------------------------
+//swap two numbers (idea) 
+x = 200
+y = 300
+
+z
+z = x // putting 10 from x into z 
+x = y // putting 300 into x now which overrides the 200
+y = z // putting 200 into y 
+
+default: reading mech for any pseudocode is top to botttom 
+
+------------------------------------------------------------------------------
+
+//print the larger variable
+
+x = 100
+y = 20 
+
+//decision making 
+if x<y print(x is larger) //this is not true then 
+else print(y is larger)
+
+--------------------------------------------------------------------------------
+
+//check for even or odd 
+
+x = 1024
+
+if x%2==0 print (x is even no)
+else print( x is odd)
+---------------------------------------------------------------------------------
+//print the last digit of a number stored in variable x
+
+x = 124214012
+y = x%10
+print(y)
+--------------------------------------------------------------------------------
+//print the 2nd last digit in the given number 
+
+x = 1241265
+z = x/10
+print(z%10)
+-------------------------------------------------------------------------------
+//print numbers from 1 to 5
+
+i = 1
+
+while i<=5
+	print(i) //stmt 1
+	i = i+1 // stmt 2 
+	
+-------------------------------------------------------------------------------
+//print numbers from 10 to 1 
+
+x = 10
+
+while x>=1
+	print(x)
+	x = x -1 
+-------------------------------------------------------------------------------
+//print even number 1 to 100
+
+a = 1
+while a <=100
+	if (a%2==0) print(a)
+	a = a+1
+	
+//approch 2:
+a = 2
+while a<=100
+	print(a)
+	a = a+2
+-------------------------------------------------------------------------------
+// break : break loop based on some condition 
+
+x = 1 
+
+while x<100
+	if(x==5) break
+	else print(x)
+	x = x+1
+
+-------------------------------------------------------------------------------
+// sum of series upto 10 
+
+a = 1
+sum = 0
+
+while a<=10
+	sum = sum + a
+	a = a+1
+
+print(sum)
+-------------------------------------------------------------------------------
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// taking input from users 
+x = input()
+
+-------------------------------------------------------------------------------
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

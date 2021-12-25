@@ -1,0 +1,98 @@
+https://www.w3resource.com/c-programming-exercises/for-loop/index.php
+1. Solve assigment problems
+2. if else clause in detail 
+	Question: Print time of day based on 24 hours clock
+3. Check if the given number is a armstrong number or not. (ex: 153)
+4. Scopes and escape sequence
+
+Ternary Operators:
+variable = (condition) ? expressionTrue :  expressionFalse;
+
+6. data-types introduction
+
+5. Variables and their storage.
+-------------------------------------------------------------------
+5. Print the following pattern
+
+	*
+	**
+	***
+	****
+	
+	1	
+	12
+	123
+	1234
+	
+	1
+	22
+	333
+	4444
+	55555
+	
+	1
+    2 3
+    4 5 6
+    7 8 9 10
+	11 12 13 14 15
+	
+	
+	*****
+	****
+	***
+	**
+	*
+
+	1234
+	123
+	12
+	1
+
+-------------------------------------------------------------------
+
+6. print multiplication table 
+
+
+
+
+
+
+if(condition){
+	print()
+	print()
+	logic 
+	print()
+}
+else {
+	print()
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

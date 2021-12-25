@@ -1,0 +1,36 @@
+Basic terms like data, datum, instructions,  program, software, hardware,
+what is a programming language, and how many of you know. 
+
+
+1.What are Algorithms
+2.How to express them (Flowchart and pseudocode)
+3 basic construct of programs:
+	1. variable
+	2. print a statment
+	3. basic operators 
+	4. commenting in code
+4. Flow control of code
+	1. seq flow
+	2. branching
+	3. Looping
+		break and continue
+	
+5. Taking user input 
+	
+
+
+Problems:
+---------------
+1. print a statment 
+2. add two number 
+3. compare two no and print largest 
+4. compare 3 nos. and print the largest
+5. Swap 2 numbers
+6. Finding the last digit of a number.
+7. Check number is even or odd nos.
+8. Program to find the avg of two numbers.
+
+
+
+
+
